@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+bin/
+javadoc/
+lwjgl-2.8.5/
+lwjgl-source-2.8.5*
+.settings/
+.classpath
+.project
